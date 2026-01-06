@@ -1,41 +1,42 @@
-🚀 Biografia Inteligente: Elon Musk e a Fronteira da Inovação
-Este repositório contém a entrega do desafio de projeto sobre Aprendizagem Ativa utilizando o NotebookLM. O foco deste estudo é a trajetória de Elon Musk, explorando desde suas origens até a fundação e gestão de empresas que estão moldando o futuro da humanidade.
+# 📘 Miniguia de Estudos: Introdução às Finanças com NotebookLM
 
-🎯 Objetivos do Projeto
-Compilar uma base de conhecimento sobre a vida e os negócios de Elon Musk.
+Este repositório contém a entrega do desafio de projeto sobre **Aprendizagem Ativa** utilizando a IA Generativa **NotebookLM**, da Google. O foco do projeto foi a curadoria de fontes oficiais para criar um ecossistema de estudo sobre finanças pessoais e investimentos.
 
-Analisar a filosofia de gestão e os princípios de engenharia (como o "First Principles Thinking").
+---
 
-Utilizar o NotebookLM para conectar informações de diferentes fases da sua carreira (PayPal, Tesla, SpaceX, etc.).
+## 🎯 Objetivos do Projeto
+* **Curadoria Inteligente:** Reunir fontes confiáveis sobre educação financeira.
+* **Aprendizagem Ativa:** Utilizar a IA para extrair conceitos, criar resumos e testar conhecimentos.
+* **Organização:** Estruturar um guia que facilite futuras revisões de forma rápida.
 
-🗂️ Fontes Utilizadas
-O caderno foi alimentado com documentos e textos cobrindo:
+## 🗂️ Fontes Selecionadas
+Para este caderno, utilizei links de instituições referência no mercado financeiro:
+1.  **CVM (Portal do Investidor):** Planejamento financeiro básico.
+2.  **Banco Central do Brasil:** Cidadania e direitos financeiros.
+3.  **B3 (Bolsa de Valores):** Primeiros passos no mercado de capitais.
+4.  **Tesouro Direto:** Conceitos de Renda Fixa e títulos públicos.
+5.  **Serasa:** Gestão de crédito e saúde financeira.
 
-Origens e Formação: Juventude na África do Sul e educação no Canadá/EUA.
+## 🧠 NotebookLM em Ação
+O caderno configurado permite uma interação profunda com os dados. Você pode visualizar o projeto através do link:
+🔗 **[Meu NotebookLM: Introdução às Finanças](https://notebooklm.google.com/notebook/d8e3e1df-8786-4314-a52d-837bf2d1b038)**
 
-O Início no Vale do Silício: A era Zip2 e PayPal.
+### 🛠️ Prompts Estratégicos Utilizados
+Para extrair o melhor da ferramenta, foram aplicadas as seguintes variações de prompts:
+* **Glossário:** *"Com base nos links da CVM e B3, crie um glossário com os 10 termos mais importantes para quem está a começar a investir hoje."*
+* **Resumo Estruturado:** *"Crie um resumo sobre a importância da reserva de emergência e como calculá-la segundo as fontes fornecidas."*
+* **Revisão:** *"Gere 5 perguntas de múltipla escolha com respostas justificadas para testar meu conhecimento sobre os conceitos financeiros destes sites."*
 
-A Revolução dos Transportes e Energia: Tesla Inc. e a missão da energia sustentável.
+## 📝 Conteúdo Gerado
+* **Glossário de Conceitos:** Definições de Selic, CDI, Liquidez, Diversificação e mais.
+* **Plano de Estudos:** Um roteiro lógico do básico (dívidas/orçamento) ao avançado (investimentos).
+* **Insights da IA:** Conexões feitas entre a inflação (BCB) e o impacto no poder de compra real do investidor (B3).
 
-A Conquista do Espaço: SpaceX e a colonização de Marte.
+---
+### 🛠️ Tecnologias Utilizadas
+* [NotebookLM](https://notebooklm.google.com/)
+* [GitHub](https://github.com/)
+* [Markdown](https://www.markdownguide.org/)
 
-Novas Fronteiras: Neuralink, The Boring Company e a aquisição do X (Twitter).
-
-🧠 NotebookLM em Ação
-Você pode acessar o caderno interativo com todas as fontes e insights através do link: 🔗 Acesse o meu NotebookLM sobre Elon Musk
-
-🛠️ Prompts Utilizados para Estudo
-Alguns dos comandos explorados para extrair conhecimento das fontes:
-
-"Resuma a estratégia de 'Primeiros Princípios' que Musk utiliza para reduzir custos na SpaceX."
-
-"Quais foram os momentos de maior risco financeiro para a Tesla e a SpaceX em 2008?"
-
-"Crie uma linha do tempo das empresas fundadas ou adquiridas por Musk e seus principais marcos."
-
-📝 O que você encontrará no caderno?
-Glossário Tecnológico: Termos como "Multi-planetary species", "Full Self-Driving" e "Reusable Rockets".
-
-Resumo Estruturado: Uma visão clara de como os negócios de Musk se conectam entre si.
-
-Guia de Referências: Citações diretas das fontes sobre sua ética de trabalho e visão de futuro.
+---
+*Este projeto foi desenvolvido como parte do curso de IA Generativa na plataforma [DIO](https://www.dio.me/).*
